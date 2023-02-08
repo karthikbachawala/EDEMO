@@ -8,25 +8,20 @@ using Microsoft.Extensions.Logging;
 
 namespace EdemoWeb.Controllers
 {
-
-    public class AdminController : Controller
+    public class ReportController : Controller
     {
-        private readonly ILogger<AdminController> _logger;
+        private readonly ILogger<ReportController> _logger;
 
-        public AdminController(ILogger<AdminController> logger)
+        public ReportController(ILogger<ReportController> logger)
         {
             _logger = logger;
         }
 
-        public IActionResult Security()
+        public IActionResult ActiveDemonstrators()
         {
             return View();
         }
 
-        public IActionResult Manager()
-        {
-            return View();
-        }
 
     }
 }

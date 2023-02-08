@@ -16,12 +16,56 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/karthik/Code/EDEMO/EdemoWeb
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/karthik/Code/EDEMO/EdemoWeb/Views/Admin/Manager.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vTWFuYWdlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/karthik/Code/EDEMO/EdemoWeb/Views/Admin/Security.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vU2VjdXJpdHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/karthik/Code/EDEMO/EdemoWeb/Views/Arrangement/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXJyYW5nZW1lbnQvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/karthik/Code/EDEMO/EdemoWeb/Views/Arrangement/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXJyYW5nZW1lbnQvU2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/karthik/Code/EDEMO/EdemoWeb/Views/Demonstrator/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVtb25zdHJhdG9yL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/karthik/Code/EDEMO/EdemoWeb/Views/Demonstrator/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVtb25zdHJhdG9yL1NlYXJjaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/karthik/Code/EDEMO/EdemoWeb/Views/Door/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9vci9TZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/karthik/Code/EDEMO/EdemoWeb/Views/Finance/CreateInvoice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmluYW5jZS9DcmVhdGVJbnZvaWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/karthik/Code/EDEMO/EdemoWeb/Views/Finance/LogSearch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmluYW5jZS9Mb2dTZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/karthik/Code/EDEMO/EdemoWeb/Views/Finance/SearchInvoice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmluYW5jZS9TZWFyY2hJbnZvaWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/karthik/Code/EDEMO/EdemoWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/karthik/Code/EDEMO/EdemoWeb/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/karthik/Code/EDEMO/EdemoWeb/Views/Report/ActiveDemonstrators.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVwb3J0L0FjdGl2ZURlbW9uc3RyYXRvcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/karthik/Code/EDEMO/EdemoWeb/Views/Shared/Error.cshtml]

@@ -8,7 +8,7 @@ using Microsoft.Extensions.Logging;
 
 namespace EdemoWeb.Controllers
 {
-    [Route("[controller]")]
+
     public class FinanceController : Controller
     {
         private readonly ILogger<FinanceController> _logger;
@@ -18,15 +18,21 @@ namespace EdemoWeb.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult SearchInvoice()
         {
             return View();
         }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
+        public IActionResult CreateInvoice()
         {
-            return View("Error!");
+            return View();
         }
+
+        public IActionResult LogSearch()
+        {
+            return View();
+        }
+
+
     }
 }

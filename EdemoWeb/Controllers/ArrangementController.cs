@@ -8,7 +8,7 @@ using Microsoft.Extensions.Logging;
 
 namespace EdemoWeb.Controllers
 {
-    [Route("[controller]")]
+
     public class ArrangementController : Controller
     {
         private readonly ILogger<ArrangementController> _logger;
@@ -18,15 +18,15 @@ namespace EdemoWeb.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult Search()
+        {
+            return View();
+        }
+        public IActionResult Create()
         {
             return View();
         }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View("Error!");
-        }
+
     }
 }
